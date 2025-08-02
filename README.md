@@ -5,17 +5,9 @@ No JavaScript. No frameworks. Just pure creative chaos and clean code.
 
 ---
 
-## 🌐 Live Demo
-
-🔗 [View it here](https://your-username.github.io/spotify-clone)
-
-> Replace the link with your GitHub Pages URL after deploying!
-
----
-
 ## 📸 Screenshot
 
-![Spotify Clone Screenshot]()
+![Spotify Clone Screenshot](https://github.com/vidzz07/spotify-clone/blob/main/Screenshot%202025-08-01%20230509.png)
 
 ---
 
@@ -35,6 +27,14 @@ No JavaScript. No frameworks. Just pure creative chaos and clean code.
 - `CSS3` (Flexbox + Grid)
 
 ---
+🧠 Why I Built This
+To level up my frontend game and recreate one of the cleanest UIs out there.
+Also... I just really love Spotify.
 
-cd spotify-clone
-open index.html
+🙌 Credits
+Inspired by Spotify’s epic design team.
+Built by Vidzz with vibes and ctrl+z.
+
+🖤 Fun Note
+There’s not a single line of JavaScript.
+Everything moves, floats, and responds using just HTML + CSS.
